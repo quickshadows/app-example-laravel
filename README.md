@@ -4,7 +4,7 @@
 
 Пример приложения [Laravel](https://laravel.com/), которое можно развернуть в **Timeweb Cloud Apps** без настройки.
 
-:tada: [Демо]()
+:tada: [Демо](https://timeweb-cloud-app-example-laravel-ffe1.twc1.net)
 
 :rocket: [Создать свой Apps](https://timeweb.cloud/my/apps/create)
 
